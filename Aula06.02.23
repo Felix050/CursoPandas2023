@@ -1,0 +1,9 @@
+#Instalando a biblioteca pandas
+!pip install pandas
+
+
+#importando biblioteca pandas no Python
+import pandas as pf
+
+
+print("Olá mundo! ")
